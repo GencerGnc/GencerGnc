@@ -1,4 +1,4 @@
-<p align="center">Hello 👋, I'm Gencer</p>
+<h1 align="center">Hello 👋, I'm Gencer</h1>
 
 ###
 
